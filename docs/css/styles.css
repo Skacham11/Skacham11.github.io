@@ -11251,23 +11251,6 @@ p.lead {
     border-radius: 100%;
   }
 
-  @media (max-width: 600px) {
-    #sideNav .navbar-brand .img-profile {
-      height: 10vw;
-      width: 10vw;
-      max-height: 5rem;
-      max-width: 5rem;
-    }
-  }
-
-  @media (min-width: 601px) and (max-width: 1024px) {
-    #sideNav .navbar-brand .img-profile {
-      height: 15vw;
-      width: 15vw;
-      max-height: 10rem;
-      max-width: 10rem;
-    }
-  }
   #sideNav .navbar-collapse {
     display: flex;
     align-items: flex-start;
